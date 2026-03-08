@@ -1,25 +1,10 @@
 # SlideLab AI — NTD Vision
 
-**Track:** Health & Public Safety  
 
 SlideLab AI is an AI-powered microscopy tool that assists healthcare workers in detecting malaria from stained blood-smear images. The system uses a deep learning model to classify cells as **parasitized** or **uninfected**, aiming to support diagnosis in resource-limited settings.
 
 ---
 
-## Team
-
-- **Adeniyi Micheal Oluwafemi**  
-  Fellow ID: FE/23/44017546  
-  Role: Team Lead  
-  Contact: oluwafemiadeniyi772@gmail.com  
-
-- **Ifeanyi Hyacint Muotoe**  
-  Fellow ID: FE/25/9928453022  
-
-- **Olutunde Stephen Anuoluwa**  
-  Fellow ID: FE/23/85039993  
-
----
 
 ## Overview
 
